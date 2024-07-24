@@ -1,13 +1,3 @@
-# cmd - h : skhd -k "alt - h"
-# cmd - j : skhd -k "alt - j"
-# cmd - k : skhd -k "alt - k"
-# cmd - l : skhd -k "alt - l"
-
-# alt - h : skhd -k "cmd - h"
-# alt - j : skhd -k "cmd - j"
-# alt - k : skhd -k "cmd - k"
-# alt - l : skhd -k "cmd - l"
-
 # change window focus within space
 alt - j : yabai -m window --focus south
 alt - k : yabai -m window --focus north
